@@ -1,8 +1,4 @@
 print ("Hello world")
-<<<<<<< HEAD
 print (" How are you?")
 What are you doing?
 what
-=======
-print (" How are you?")
->>>>>>> parent of 053fc97 (+ third)
